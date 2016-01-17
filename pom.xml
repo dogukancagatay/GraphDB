@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>GraphDB</groupId>
 	<artifactId>GraphDB</artifactId>
-	<version>0.0.1-Pfv2</version>
+	<version>0.0.1</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
